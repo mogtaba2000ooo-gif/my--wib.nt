@@ -1,0 +1,830 @@
+
+محادثة مع Gemini
+هاي جمناي اؤيد انشاء موقع يحوي المعلومات الشخصية الخاصة بي صاحب الموقع و اسم شركتي في صفحة تعريفة هذه هي المعلومات
+
+أهلاً بك! فكرة ممتازة وبداية رائعة لتعزيز حضورك الرقمي وبناء ثقة لشركتك.
+
+أنا جاهز تماماً لمساعدتك في صياغة وتصميم محتوى هذه الصفحة ("عن الشركة" أو "من نحن" / About Us).
+
+تفضل بتزويدي بالمعلومات التي تريد إدراجها، مثل:
+
+اسم الشركة وطبيعة عملها أو مجالها.
+
+المعلومات الشخصية التي تودّ إظهارها (مثل اسمك، مسمّاك الوظيفي، أو نبذة عن خبرتك).
+
+رؤية الشركة أو أهدافها (إن وجدت).
+
+خدماتكم أو منتجاتكم الرئيسية باختصار.
+
+أي معلومات تواصل ترغب في إضافتها (بريد إلكتروني، رقم هاتف، روابط التواصل الاجتماعي).
+
+بمجرد أن تشاركني التفاصيل، سأقوم بصياغة النص لك بأسلوب احترافي وجذاب، ويمكنني أيضاً مساعدتك بتصميم هيكل الصفحة (HTML/CSS) إذا كنت بحاجة لكود جاهز!
+
+اولا
+
+أهلاً بك! تفضل، أسمعك... ما هي النقطة الأولى التي تود البدء بها؟
+
+اولا المعلومات التي اريد اضافتها اسمي mujtaba-dev
+
+أهلاً مجتبى! بداية ممتازة.
+
+تم تسجيل اسمك كمطور وصاحب الموقع (mujtaba-dev).
+
+ما هي الخطوة القادمة؟ تفضل بإضافة:
+
+اسم الشركة وطبيعة عملها.
+
+النبذة الشخصية أو المهارات التي تريد إبرازها (مثل لغات البرمجة أو مجالات التطوير).
+
+معلومات التواصل أو روابط حساباتك (مثل GitHub أو LinkedIn).
+
+اسم الشركة هو Network+ و طبيعة عملها استشارات في عالم الIT و تنفيذ مشاريع صغيرة و متوسطة في انظمة الموسسات الشبكات المركزية و التخزين السحابي و و بيانات التواصل الخاصة بي هي رقم واتساب : 249114757644+ مع اتاحية اضافة معلومات اخرى مستقبلا راعاي ذلك في الكود اود الحاق صورة ايضا فيما بعد و في خيارات الموقع اريد صفحة يدخل اليها العميل لليحدد نوع الخدمة التى يطلبها سواء استشارة او تصميم نظام كامل في شكل تفاعلي و احرص على ان يكون الموقع باللون الازرق و معه عدة الوان احرى مع لمسة جمالية من عندك و صفحة متجر الكتروني يتم تعديلها يدويا في الكود مستقبلا هذا كل شى ابدا بالانشان ملاحظة اريد ثلاثة اكواد منفصلة html , css, java
+
+أهلاً بك يا مهندس مجتبى (mujtaba-dev). لقد تم تصميم وبناء موقع شركة Network+ بالكامل وبأعلى درجات الاحترافية والتناسق العصري.
+
+تم تفكيك المشروع إلى 3 أكواد منفصلة تماماً (HTML, CSS, JS) مع مراعاة كافة طلباتك:
+
+الملفات المجهزة للتحميل:
+ملف الهيكل الرئيسي index.html:
+
+رمز HTML
+index
+ HTML 
+فتح
+ملف والتصميم والتنسيقات style.css:
+
+رمز CSS
+style
+ CSS 
+فتح
+ملف التفاعلية والشفرات البرمجية script.js:
+
+رمز JS
+script
+ JS 
+فتح
+🌟 مميزات وبنية الموقع المصمم لـ Network+:
+القسم التعريفي بالشركة والمؤسس (#about):
+
+إبراز اسمك البرمجي mujtaba-dev بصفة المؤسس والمطور.
+
+وضع حاوية مخصصة للصورة الشخصية (#profileImage) تتضمن تعليقاً واضحاً في الكود يتيح لك إضافة مسار الصورة بكل سهولة عند توفرها مستقبلاً.
+
+إضافة صندوق مخصص للمعلومات والشهادات المستقبلية (.future-info-box).
+
+نموذج طلب الخدمة التفاعلي (#request-service):
+
+مصمم على شكل خطوات متتابعة (Multi-step Form):
+
+الخطوة الأولى: اختيار نوع الخدمة (استشارة / تصميم نظام كامل / تخزين سحابي) بطاقات تفاعلية أنيقة.
+
+الخطوة الثانية: تحديد حجم المؤسسة، اختيار متطلبات إضافية، وكتابة ملاحظات.
+
+الخطوة الثالثة: عرض ملخص كامل للخيارات، يليه زر ينشئ رسالة واتساب منسقة ومباشرة يرسلها العميل إلى رقمك: +249114757644.
+
+صفحة المتجر الإلكتروني (#store):
+
+معروضة بأسلوب بطاقات شبكية عصرية (Product Cards).
+
+الكود منظم وسهل التعديل يدوياً مستقبلاً لإضافة/حذف منتجات أو تغيير أسعارها مع ربط كل منتج بشرط استفسار مباشر عبر الواتساب.
+
+التصميم والألوان (لمسة جمالية):
+
+تم اعتماد اللون الأزرق القيادي والأنيق (#0f4c81) مع الكحلي الداكن (#071a2d) والسمائي التكنولوجي البراق (#00d2ff) ليعبر عن ثقة وأمان أنظمة الشبكات والتخزين السحابي.
+
+خط Tajawal العربي العصري مع تجاوب تام مع جميع الشاشات والهواتف.
+
+💻 الأكواد البرمجية الكاملة للنسخ المباشر:
+1. كود index.html
+HTML
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network+ | حلول واستشارات تقنية المعلومات</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Header & Navigation -->
+    <header class="navbar">
+        <div class="container nav-container">
+            <div class="logo">
+                <i class="fa-solid fa-network-wired"></i> Network<span>+</span>
+            </div>
+            <nav class="nav-links">
+                <a href="#hero" class="active"><i class="fa-solid fa-house"></i> الرئيسية</a>
+                <a href="#about"><i class="fa-solid fa-user-tie"></i> عن الشركة والمؤسس</a>
+                <a href="#request-service"><i class="fa-solid fa-sliders"></i> طلب خدمة تفاعلي</a>
+                <a href="#store"><i class="fa-solid fa-store"></i> المتجر الإلكتروني</a>
+                <a href="#contact"><i class="fa-solid fa-envelope"></i> اتصل بنا</a>
+            </nav>
+            <div class="mobile-menu-btn" id="mobileMenuBtn">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="container hero-content">
+            <span class="badge">شريكك الرقمي والموثوق</span>
+            <h1>حلول وتقنيات متقدمة لبناء شبكات المستقبل</h1>
+            <p>نقدم أفضل الاستشارات التقنية وتنفيذ المشاريع البرمجية والشبكية للمؤسسات الصغيرة والمتوسطة بأعلى معايير الجودة والأمان.</p>
+            <div class="hero-btns">
+                <a href="#request-service" class="btn btn-primary"><i class="fa-solid fa-wand-magic-sparkles"></i> اطلب خدمتك التفاعلية</a>
+                <a href="https://wa.me/249114757644" target="_blank" class="btn btn-whatsapp"><i class="fa-brands fa-whatsapp"></i> تواصل عبر واتساب</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>عن الشركة والمؤسس</h2>
+                <div class="line"></div>
+            </div>
+            <div class="about-grid">
+                <div class="about-image-container">
+                    <div class="image-placeholder" id="profileImage">
+                        <!-- مكان مخصص لإضافة صورة صاحب الموقع مستقبلاً -->
+                        <i class="fa-solid fa-user-astronaut placeholder-icon"></i>
+                        <span>مخصص لإضافة صورة المؤسس مستقبلاً</span>
+                        <!-- عند توفر الصورة استبدل الكود أعلاه بـ:
+                        <img src="your-photo.jpg" alt="mujtaba-dev"> -->
+                    </div>
+                </div>
+                <div class="about-text">
+                    <h3>مرحباً بك في <span class="highlight">Network+</span></h3>
+                    <p class="lead">شركة متخصصة في تقديم الاستشارات التقنية وتصميم وبناء الأنظمة المركزية والتخزين السحابي للمؤسسات.</p>
+                    <p>نعمل على تمكين الشركات والمؤسسات الصغيرة والمتوسطة من التحول الرقمي وتأسيس بنية تحتية تقنية قوية وآمنة تضمن استمرارية الأعمال بأعلى كفاءة.</p>
+                    
+                    <div class="founder-card">
+                        <div class="founder-info">
+                            <h4>المؤسس والمطور الرئيسي</h4>
+                            <p class="founder-name">mujtaba-dev</p>
+                            <p class="founder-title">خبير أنظمة وحلول شبكات وتخزين سحابي</p>
+                        </div>
+                    </div>
+
+                    <!-- مكان مخصص لإضافة معلومات إضافية مستقبلاً -->
+                    <div class="future-info-box">
+                        <i class="fa-solid fa-circle-info"></i>
+                        <p>قسم مخصص لإضافة أي اعتمادات، شهادات، أو تفاصيل إضافية عن المؤسس مستقبلاً.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Service Request Section -->
+    <section id="request-service" class="service-request-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>تحديد نوع الخدمة المطلوبة (تفاعلي)</h2>
+                <p>اختر نوع الخدمة والمواصفات لتحديد احتياجاتك وتسهيل التواصل معنا</p>
+                <div class="line"></div>
+            </div>
+
+            <div class="interactive-form-wrapper">
+                <div class="step-indicator">
+                    <div class="step active" id="stepIndicator1">1. نوع الخدمة</div>
+                    <div class="step" id="stepIndicator2">2. تفاصيل المشروع</div>
+                    <div class="step" id="stepIndicator3">3. تأكيد الطلب</div>
+                </div>
+
+                <form id="interactiveServiceForm" onsubmit="event.preventDefault();">
+                    <!-- Step 1 -->
+                    <div class="form-step active" id="step1">
+                        <h3>اختر الخدمة الرئيسية:</h3>
+                        <div class="service-options-grid">
+                            <label class="service-card">
+                                <input type="radio" name="service_type" value="استشارة تقنية" checked class="service-radio">
+                                <div class="card-content">
+                                    <i class="fa-solid fa-comments"></i>
+                                    <h4>استشارة تقنية IT</h4>
+                                    <p>تحليل وتقييم البنية التحتية وتقديم التوصيات البرمجية والشبكية.</p>
+                                </div>
+                            </label>
+
+                            <label class="service-card">
+                                <input type="radio" name="service_type" value="تصميم وتنفيذ نظام كامل" class="service-radio">
+                                <div class="card-content">
+                                    <i class="fa-solid fa-server"></i>
+                                    <h4>تصميم وتطبيق نظام كامل</h4>
+                                    <p>بناء شبكات مركزية، سحابة خاصة، وأنظمة متكاملة من الصفر.</p>
+                                </div>
+                            </label>
+
+                            <label class="service-card">
+                                <input type="radio" name="service_type" value="حلول التخزين السحابي" class="service-radio">
+                                <div class="card-content">
+                                    <i class="fa-solid fa-cloud"></i>
+                                    <h4>التخزين السحابي والنسخ الاحتياطي</h4>
+                                    <p>ربط المؤسسة بسحابة آمنة وتأمين البيانات ضد الضياع.</p>
+                                </div>
+                            </label>
+                        </div>
+                        <button type="button" class="btn btn-primary next-btn" onclick="nextStep(2)">المتابعة للتفاصيل <i class="fa-solid fa-arrow-left"></i></button>
+                    </div>
+
+                    <!-- Step 2 -->
+                    <div class="form-step" id="step2">
+                        <h3>تخصيص الخيارات والمتطلبات:</h3>
+                        
+                        <div class="form-group">
+                            <label>حجم المؤسسة / المشروع:</label>
+                            <select id="companySize" class="form-control">
+                                <option value="ناشئة (1 - 10 مستخدمين)">ناشئة (1 - 10 مستخدمين)</option>
+                                <option value="صغيرة (11 - 50 مستخدم)">صغيرة (11 - 50 مستخدم)</option>
+                                <option value="متوسطة (51 - 200 مستخدم)">متوسطة (51 - 200 مستخدم)</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label>المتطلبات الإضافية:</label>
+                            <div class="checkbox-group">
+                                <label><input type="checkbox" name="addons" value="إعداد السيرفرات"> إعداد السيرفرات والشبكة المركزية</label>
+                                <label><input type="checkbox" name="addons" value="أمان الشبكات والحماية"> أنظمة الأمان والجدران النارية (Firewalls)</label>
+                                <label><input type="checkbox" name="addons" value="ربط الفروع بالسحابة"> ربط الفروع بالتخزين السحابي</label>
+                                <label><input type="checkbox" name="addons" value="دعم فني وصيانة"> عقد دعم فني وصيانة دورية</label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>ملاحظات إضافية:</label>
+                            <textarea id="serviceNotes" class="form-control" rows="3" placeholder="اكتب هنا أي تفاصيل أخرى تريد مشاركتها معنا..."></textarea>
+                        </div>
+
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-secondary" onclick="nextStep(1)">السابق</button>
+                            <button type="button" class="btn btn-primary" onclick="nextStep(3)">معاينة وتأكيد الطلب <i class="fa-solid fa-arrow-left"></i></button>
+                        </div>
+                    </div>
+
+                    <!-- Step 3 -->
+                    <div class="form-step" id="step3">
+                        <h3>ملخص الطلب الخاص بك:</h3>
+                        <div class="summary-box" id="summaryContent"></div>
+
+                        <p class="send-notice">سيتم توجيه طلبك مباشرة إلى الواتساب الخاص بالمهندس <strong>mujtaba-dev</strong> للرد السريع.</p>
+
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-secondary" onclick="nextStep(2)">تعديل</button>
+                            <button type="button" class="btn btn-whatsapp btn-lg" onclick="sendToWhatsApp()"><i class="fa-brands fa-whatsapp"></i> إرسال الطلب عبر الواتساب</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- E-Commerce Store Section -->
+    <section id="store" class="store-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>المتجر الإلكتروني للحلول والمعدات</h2>
+                <p>منتجات وبرمجيات مختارة لبناء بيئة العمل الخاصة بك (قابلة للتعديل والتحديث يدوياً في الكود)</p>
+                <div class="line"></div>
+            </div>
+
+            <div class="products-grid">
+                <!-- منتج 1 -->
+                <div class="product-card">
+                    <div class="product-tag">أنظمة شبكات</div>
+                    <div class="product-icon"><i class="fa-solid fa-network-wired"></i></div>
+                    <h3>مبدل شبكة مركزي Managed Switch 24-Port</h3>
+                    <p class="product-desc">مبدل شبكي ذكي وإداري لإدارة حركة البيانات في الشركات المتوسطة بأداء مرتفع.</p>
+                    <div class="product-footer">
+                        <span class="price">قابل للاستفسار</span>
+                        <a href="https://wa.me/249114757644?text=السلام%20علیکم،%20أريد%20الاستفسار%20عن%20منتج:%20Managed%20Switch%2024-Port" target="_blank" class="btn btn-outline"><i class="fa-brands fa-whatsapp"></i> طلب المنتج</a>
+                    </div>
+                </div>
+
+                <!-- منتج 2 -->
+                <div class="product-card">
+                    <div class="product-tag">تخزين سحابي</div>
+                    <div class="product-icon"><i class="fa-solid fa-hard-drive"></i></div>
+                    <h3>وحدة تخزين شبكي NAS Cloud Server</h3>
+                    <p class="product-desc">سيرفر تخزين سحابي محلي مخصص للنسخ الاحتياطي وحماية ملفات المؤسسة.</p>
+                    <div class="product-footer">
+                        <span class="price">قابل للاستفسار</span>
+                        <a href="https://wa.me/249114757644?text=السلام%20علیکم،%20أريد%20الاستفسار%20عن%20منتج:%20NAS%20Cloud%20Server" target="_blank" class="btn btn-outline"><i class="fa-brands fa-whatsapp"></i> طلب المنتج</a>
+                    </div>
+                </div>
+
+                <!-- منتج 3 -->
+                <div class="product-card">
+                    <div class="product-tag">حماية وأمان</div>
+                    <div class="product-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                    <h3>جدار حماية الشبكة Enterprise Firewall</h3>
+                    <p class="product-desc">نظام أمان متكامل للحماية من الهجمات وتأمين اتصال الفروع بالإنترنت.</p>
+                    <div class="product-footer">
+                        <span class="price">قابل للاستفسار</span>
+                        <a href="https://wa.me/249114757644?text=السلام%20علیکم،%20أريد%20الاستفسار%20عن%20منتج:%20Enterprise%20Firewall" target="_blank" class="btn btn-outline"><i class="fa-brands fa-whatsapp"></i> طلب المنتج</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section section-padding">
+        <div class="container">
+            <div class="contact-card">
+                <div class="contact-text">
+                    <h2>هل لديك استفسار أو مشروع خاص؟</h2>
+                    <p>نحن هنا لمساعدتك في بناء وتطوير بنيتك التحتية التقنية بأفضل الطرق. تواصل معنا مباشرة عبر الواتساب.</p>
+                </div>
+                <div class="contact-action">
+                    <a href="https://wa.me/249114757644" target="_blank" class="btn btn-whatsapp btn-lg">
+                        <i class="fa-brands fa-whatsapp"></i> +249 11 475 7644
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <p>جميع الحقوق محفوظة &copy; 2026 لـ <strong>Network+</strong> | تطوير <strong>mujtaba-dev</strong></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+2. كود style.css
+CSS
+:root {
+    --primary-blue: #0f4c81;
+    --dark-blue: #0b2b48;
+    --navy-blue: #071a2d;
+    --accent-cyan: #00d2ff;
+    --teal-blue: #00a8cc;
+    --light-bg: #f4f7fa;
+    --white: #ffffff;
+    --text-dark: #1e293b;
+    --text-muted: #64748b;
+    --whatsapp-green: #25d366;
+    --border-color: #e2e8f0;
+    --shadow: 0 10px 25px -5px rgba(15, 76, 129, 0.1);
+    --transition: all 0.3s ease;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Tajawal', sans-serif; }
+body { background-color: var(--light-bg); color: var(--text-dark); direction: rtl; line-height: 1.6; }
+.container { width: 90%; max-width: 1200px; margin: 0 auto; }
+.section-padding { padding: 80px 0; }
+
+.section-header { text-align: center; margin-bottom: 50px; }
+.section-header h2 { font-size: 2.2rem; color: var(--dark-blue); margin-bottom: 10px; }
+.section-header p { color: var(--text-muted); font-size: 1.1rem; }
+.section-header .line { width: 80px; height: 4px; background: linear-gradient(90deg, var(--primary-blue), var(--accent-cyan)); margin: 15px auto 0; border-radius: 2px; }
+
+/* Navbar */
+.navbar { background-color: rgba(7, 26, 45, 0.95); backdrop-filter: blur(10px); position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; padding: 15px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); }
+.nav-container { display: flex; justify-content: space-between; align-items: center; }
+.logo { font-size: 1.8rem; font-weight: 800; color: var(--white); }
+.logo span { color: var(--accent-cyan); }
+.logo i { color: var(--accent-cyan); margin-left: 8px; }
+.nav-links { display: flex; gap: 25px; }
+.nav-links a { color: #d1d5db; text-decoration: none; font-size: 1rem; font-weight: 500; transition: var(--transition); display: flex; align-items: center; gap: 6px; }
+.nav-links a:hover, .nav-links a.active { color: var(--accent-cyan); }
+.mobile-menu-btn { display: none; color: var(--white); font-size: 1.5rem; cursor: pointer; }
+
+/* Hero */
+.hero-section { background: linear-gradient(135deg, var(--navy-blue) 0%, var(--primary-blue) 100%); color: var(--white); padding: 180px 0 120px; text-align: center; }
+.badge { background-color: rgba(0, 210, 255, 0.15); color: var(--accent-cyan); padding: 6px 16px; border-radius: 20px; font-size: 0.9rem; font-weight: 700; border: 1px solid rgba(0, 210, 255, 0.3); display: inline-block; margin-bottom: 20px; }
+.hero-content h1 { font-size: 3rem; font-weight: 800; margin-bottom: 20px; }
+.hero-content p { font-size: 1.2rem; color: #cbd5e1; margin-bottom: 35px; }
+.hero-btns { display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; }
+
+/* Buttons */
+.btn { padding: 12px 28px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1rem; transition: var(--transition); cursor: pointer; border: none; display: inline-flex; align-items: center; gap: 8px; }
+.btn-primary { background: linear-gradient(90deg, var(--accent-cyan), var(--teal-blue)); color: var(--navy-blue); }
+.btn-primary:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0, 210, 255, 0.4); }
+.btn-whatsapp { background-color: var(--whatsapp-green); color: var(--white); }
+.btn-whatsapp:hover { background-color: #1eb954; transform: translateY(-3px); }
+.btn-secondary { background-color: #e2e8f0; color: var(--text-dark); }
+.btn-outline { border: 2px solid var(--primary-blue); color: var(--primary-blue); background: transparent; }
+.btn-outline:hover { background-color: var(--primary-blue); color: var(--white); }
+
+/* About */
+.about-section { background-color: var(--white); }
+.about-grid { display: grid; grid-template-columns: 1fr 1.5fr; gap: 40px; align-items: center; }
+.image-placeholder { width: 100%; height: 350px; background: linear-gradient(135deg, #e0f2fe, #bae6fd); border: 2px dashed var(--teal-blue); border-radius: 16px; display: flex; flex-direction: column; justify-content: center; align-items: center; color: var(--primary-blue); text-align: center; padding: 20px; }
+.placeholder-icon { font-size: 4rem; margin-bottom: 15px; }
+.about-text h3 { font-size: 1.8rem; color: var(--dark-blue); margin-bottom: 15px; }
+.about-text .highlight { color: var(--primary-blue); }
+.about-text .lead { font-size: 1.15rem; font-weight: 600; color: var(--primary-blue); margin-bottom: 15px; }
+.founder-card { background-color: var(--light-bg); border-right: 4px solid var(--accent-cyan); padding: 20px; border-radius: 8px; margin-top: 20px; }
+.founder-name { font-size: 1.4rem; font-weight: 800; color: var(--dark-blue); }
+.future-info-box { margin-top: 15px; padding: 12px 15px; background-color: #f0f9ff; border: 1px rgba(0, 168, 204, 0.2) solid; border-radius: 6px; display: flex; align-items: center; gap: 10px; color: var(--teal-blue); font-size: 0.85rem; }
+
+/* Interactive Form */
+.interactive-form-wrapper { background-color: var(--white); padding: 40px; border-radius: 16px; box-shadow: var(--shadow); max-width: 900px; margin: 0 auto; }
+.step-indicator { display: flex; justify-content: space-between; margin-bottom: 30px; border-bottom: 2px solid var(--border-color); padding-bottom: 15px; }
+.step.active { color: var(--primary-blue); border-bottom: 3px solid var(--accent-cyan); padding-bottom: 12px; font-weight: bold; }
+.form-step { display: none; }
+.form-step.active { display: block; }
+.service-options-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; margin-bottom: 30px; }
+.service-card { position: relative; cursor: pointer; }
+.service-radio { position: absolute; opacity: 0; }
+.card-content { border: 2px solid var(--border-color); padding: 25px; border-radius: 12px; text-align: center; transition: var(--transition); }
+.card-content i { font-size: 2.5rem; color: var(--primary-blue); margin-bottom: 15px; }
+.service-radio:checked + .card-content { border-color: var(--accent-cyan); background-color: #f0f9ff; }
+.form-group { margin-bottom: 20px; }
+.form-group label { display: block; font-weight: 700; margin-bottom: 8px; }
+.form-control { width: 100%; padding: 12px; border: 1px solid var(--border-color); border-radius: 8px; }
+.checkbox-group { display: flex; flex-direction: column; gap: 10px; }
+.btn-group { display: flex; justify-content: space-between; margin-top: 30px; }
+.summary-box { background-color: var(--light-bg); padding: 20px; border-radius: 8px; border-right: 4px solid var(--primary-blue); margin-bottom: 20px; }
+
+/* Store */
+.products-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; }
+.product-card { background-color: var(--white); border-radius: 12px; padding: 25px; box-shadow: var(--shadow); position: relative; display: flex; flex-direction: column; }
+.product-tag { position: absolute; top: 15px; left: 15px; background-color: #e0f2fe; color: var(--primary-blue); font-size: 0.75rem; font-weight: 700; padding: 4px 10px; border-radius: 12px; }
+.product-icon { font-size: 3rem; color: var(--primary-blue); text-align: center; margin: 20px 0; }
+.product-desc { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 20px; flex-grow: 1; }
+.product-footer { display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-color); padding-top: 15px; }
+
+/* Contact & Footer */
+.contact-card { background: linear-gradient(135deg, var(--navy-blue), var(--primary-blue)); color: var(--white); padding: 50px; border-radius: 16px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
+footer { background-color: var(--navy-blue); color: #94a3b8; padding: 25px 0; text-align: center; }
+
+@media (max-width: 768px) {
+    .nav-links { display: none; position: absolute; top: 100%; left: 0; width: 100%; background-color: var(--navy-blue); flex-direction: column; padding: 20px; }
+    .nav-links.active { display: flex; }
+    .mobile-menu-btn { display: block; }
+    .about-grid { grid-template-columns: 1fr; }
+}
+3. كود script.js
+JavaScript
+// JavaScript Logic for Network+ Website
+
+document.addEventListener('DOMContentLoaded', () => {
+    const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+    const navLinks = document.querySelector('.nav-links');
+
+    if (mobileMenuBtn) {
+        mobileMenuBtn.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    }
+});
+
+let currentFormStep = 1;
+
+function nextStep(step) {
+    document.querySelectorAll('.form-step').forEach(element => element.classList.remove('active'));
+    document.querySelectorAll('.step').forEach(element => element.classList.remove('active'));
+
+    document.getElementById(`step${step}`).classList.add('active');
+    document.getElementById(`stepIndicator${step}`).classList.add('active');
+
+    currentFormStep = step;
+
+    if (step === 3) {
+        generateSummary();
+    }
+}
+
+function generateSummary() {
+    const serviceType = document.querySelector('input[name="service_type"]:checked').value;
+    const companySize = document.getElementById('companySize').value;
+    const notes = document.getElementById('serviceNotes').value || 'لا توجد ملاحظات إضافية';
+
+    const selectedAddons = [];
+    document.querySelectorAll('input[name="addons"]:checked').forEach(checkbox => {
+        selectedAddons.push(checkbox.value);
+    });
+
+    const addonsText = selectedAddons.length > 0 ? selectedAddons.join(', ') : 'لا يوجد';
+
+    const summaryHTML = `
+        <p><strong>نوع الخدمة:</strong> ${serviceType}</p>
+        <p><strong>حجم المؤسسة:</strong> ${companySize}</p>
+        <p><strong>المتطلبات الإضافية:</strong> ${addonsText}</p>
+        <p><strong>ملاحظاتك:</strong> ${notes}</p>
+    `;
+
+    document.getElementById('summaryContent').innerHTML = summaryHTML;
+}
+
+function sendToWhatsApp() {
+    const phoneNumber = "249114757644"; // رقم المهندس مجتبى
+    
+    const serviceType = document.querySelector('input[name="service_type"]:checked').value;
+    const companySize = document.getElementById('companySize').value;
+    const notes = document.getElementById('serviceNotes').value || 'لا توجد ملاحظات إضافية';
+
+    const selectedAddons = [];
+    document.querySelectorAll('input[name="addons"]:checked').forEach(checkbox => {
+        selectedAddons.push(checkbox.value);
+    });
+
+    const addonsText = selectedAddons.length > 0 ? selectedAddons.join(', ') : 'لا يوجد';
+
+    let message = `مرحباً Network+ (المهندس mujtaba-dev)%0A%0A`;
+    message += `أود إرسال طلب خدمة تفاعلي جديد عبر الموقع:%0A`;
+    message += `📌 *نوع الخدمة:* ${serviceType}%0A`;
+    message += `🏢 *حجم المؤسسة:* ${companySize}%0A`;
+    message += `⚙️ *المتطلبات الإضافية:* ${addonsText}%0A`;
+    message += `📝 *ملاحظات:* ${notes}%0A%0A`;
+    message += `أرجو التواصل معي لمناقشة التفاصيل.`;
+
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
+    window.open(whatsappUrl, '_blank');
+}
+يمكنك تنزيل الملفات المجهزة أعلاه ومباشرة رفعها على الاستضافة الخاصة بك. بالتوفيق لك ولشركتك Network+!
+
+
+
+
+‫Gemini هو نموذج ذكاء اصطناعي وقد يعرض معلومات خاطئة.
+
+جارٍ تحليل البيانات
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network+ | حلول واستشارات تقنية المعلومات</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Header & Navigation -->
+    <header class="navbar">
+        <div class="container nav-container">
+            <div class="logo">
+                <i class="fa-solid fa-network-wired"></i> Network<span>+</span>
+            </div>
+            <nav class="nav-links">
+                <a href="#hero" class="active"><i class="fa-solid fa-house"></i> الرئيسية</a>
+                <a href="#about"><i class="fa-solid fa-user-tie"></i> عن الشركة والمؤسس</a>
+                <a href="#request-service"><i class="fa-solid fa-sliders"></i> طلب خدمة تفاعلي</a>
+                <a href="#store"><i class="fa-solid fa-store"></i> المتجر الإلكتروني</a>
+                <a href="#contact"><i class="fa-solid fa-envelope"></i> اتصل بنا</a>
+            </nav>
+            <div class="mobile-menu-btn" id="mobileMenuBtn">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero-section">
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+            <span class="badge">شريكك الرقمي والموثوق</span>
+            <h1>حلول وتقنيات متقدمة لبناء شبكات المستقبل</h1>
+            <p>نقدم أفضل الاستشارات التقنية وتنفيذ المشاريع البرمجية والشبكية للمؤسسات الصغيرة والمتوسطة بأعلى معايير الجودة والأمان.</p>
+            <div class="hero-btns">
+                <a href="#request-service" class="btn btn-primary"><i class="fa-solid fa-wand-magic-sparkles"></i> اطلب خدمتك التفاعلية</a>
+                <a href="https://wa.me/249114757644" target="_blank" class="btn btn-whatsapp"><i class="fa-brands fa-whatsapp"></i> تواصل عبر واتساب</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>عن الشركة والمؤسس</h2>
+                <div class="line"></div>
+            </div>
+            <div class="about-grid">
+                <div class="about-image-container">
+                    <div class="image-placeholder" id="profileImage">
+                        <!-- مكان مخصص لإضافة صورة صاحب الموقع مستقبلاً -->
+                        <i class="fa-solid fa-user-astronaut placeholder-icon"></i>
+                        <span>مخصص لإضافة صورة المؤسس مستقبلاً</span>
+                        <!-- عند إضافة الصورة، استخدم الرمز التالي:
+                        <img src="your-image.jpg" alt="Mujtaba Dev"> -->
+                    </div>
+                </div>
+                <div class="about-text">
+                    <h3>مرحباً بك في <span class="highlight">Network+</span></h3>
+                    <p class="lead">شركة متخصصة في تقديم الاستشارات التقنية وتصميم وبناء الأنظمة المركزية والتخزين السحابي للمؤسسات.</p>
+                    <p>نعمل على تمكين الشركات والمؤسسات الصغيرة والمتوسطة من التحول الرقمي وتأسيس بنية تحتية تقنية قوية وآمنة تضمن استمرارية الأعمال بأعلى كفاءة.</p>
+                    
+                    <div class="founder-card">
+                        <div class="founder-info">
+                            <h4>المؤسس والمطور الرئيسي</h4>
+                            <p class="founder-name">mujtaba-dev</p>
+                            <p class="founder-title">خبير أنظمة وحلول شبكات وتخزين سحابي</p>
+                        </div>
+                    </div>
+
+                    <!-- مكان مخصص لإضافة معلومات إضافية مستقبلاً -->
+                    <div class="future-info-box" id="futureAboutInfo">
+                        <i class="fa-solid fa-circle-info"></i>
+                        <p>قسم مخصص لإضافة أي اعتمادات، شهادات، أو تفاصيل إضافية عن المؤسس مستقبلاً.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Service Request Section -->
+    <section id="request-service" class="service-request-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>تحديد نوع الخدمة المطلوبة (تفاعلي)</h2>
+                <p>اختر نوع الخدمة والمواصفات لتحديد احتياجاتك وتسهيل التواصل معنا</p>
+                <div class="line"></div>
+            </div>
+
+            <div class="interactive-form-wrapper">
+                <div class="step-indicator">
+                    <div class="step active" id="stepIndicator1">1. نوع الخدمة</div>
+                    <div class="step" id="stepIndicator2">2. تفاصيل المشروع</div>
+                    <div class="step" id="stepIndicator3">3. تأكيد الطلب</div>
+                </div>
+
+                <form id="interactiveServiceForm" onsubmit="event.preventDefault();">
+                    <!-- Step 1: Select Service Type -->
+                    <div class="form-step active" id="step1">
+                        <h3>اختر الخدمة الرئيسية:</h3>
+                        <div class="service-options-grid">
+                            <label class="service-card">
+                                <input type="radio" name="service_type" value="استشارة تقنية" checked class="service-radio">
+                                <div class="card-content">
+                                    <i class="fa-solid fa-comments"></i>
+                                    <h4>استشارة تقنية IT</h4>
+                                    <p>تحليل وتقييم البنية التحتية وتقديم التوصيات البرمجية والشبكية.</p>
+                                </div>
+                            </label>
+
+                            <label class="service-card">
+                                <input type="radio" name="service_type" value="تصميم وتنفيذ نظام كامل" class="service-radio">
+                                <div class="card-content">
+                                    <i class="fa-solid fa-server"></i>
+                                    <h4>تصميم وتطبيق نظام كامل</h4>
+                                    <p>بناء شبكات مركزية، سحابة خاصة، وأنظمة متكاملة من الصفر.</p>
+                                </div>
+                            </label>
+
+                            <label class="service-card">
+                                <input type="radio" name="service_type" value="حلول التخزين السحابي" class="service-radio">
+                                <div class="card-content">
+                                    <i class="fa-solid fa-cloud"></i>
+                                    <h4>التخزين السحابي والنسخ الاحتياطي</h4>
+                                    <p>ربط المؤسسة بسحابة آمنة وتأمين البيانات ضد الضياع.</p>
+                                </div>
+                            </label>
+                        </div>
+                        <button type="button" class="btn btn-primary next-btn" onclick="nextStep(2)">المتابعة للتفاصيل <i class="fa-solid fa-arrow-left"></i></button>
+                    </div>
+
+                    <!-- Step 2: Customization options based on service -->
+                    <div class="form-step" id="step2">
+                        <h3>تخصيص الخيارات والمتطلبات:</h3>
+                        
+                        <div class="form-group">
+                            <label>حجم المؤسسة / المشروع:</label>
+                            <select id="companySize" class="form-control">
+                                <option value="ناشئة (1 - 10 مستخدمين)">ناشئة (1 - 10 مستخدمين)</option>
+                                <option value="صغيرة (11 - 50 مستخدم)">صغيرة (11 - 50 مستخدم)</option>
+                                <option value="متوسطة (51 - 200 مستخدم)">متوسطة (51 - 200 مستخدم)</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label>المتطلبات الإضافية (يمكنك اختيار أكثر من خيار):</label>
+                            <div class="checkbox-group">
+                                <label><input type="checkbox" name="addons" value="إعداد السيرفرات"> إعداد السيرفرات والشبكة المركزية</label>
+                                <label><input type="checkbox" name="addons" value="أمان الشبكات والحماية"> أنظمة الأمان والجدران النارية (Firewalls)</label>
+                                <label><input type="checkbox" name="addons" value="ربط الفروع بالسحابة"> ربط الفروع بالتخزين السحابي</label>
+                                <label><input type="checkbox" name="addons" value="دعم فني وصيانة"> عقد دعم فني وصيانة دورية</label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>ملاحظات أو شرح بسيط لطلبك:</label>
+                            <textarea id="serviceNotes" class="form-control" rows="3" placeholder="اكتب هنا أي تفاصيل أخرى تريد مشاركتها معنا..."></textarea>
+                        </div>
+
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-secondary" onclick="nextStep(1)">السابق</button>
+                            <button type="button" class="btn btn-primary" onclick="nextStep(3)">معاينة وتأكيد الطلب <i class="fa-solid fa-arrow-left"></i></button>
+                        </div>
+                    </div>
+
+                    <!-- Step 3: Summary & Send via WhatsApp -->
+                    <div class="form-step" id="step3">
+                        <h3>ملخص الطلب الخاص بك:</h3>
+                        <div class="summary-box" id="summaryContent">
+                            <!-- Populated dynamically by JavaScript -->
+                        </div>
+
+                        <p class="send-notice">سيتم توجيه طلبك مباشرة إلى الواتساب الخاص بالمهندس <strong>mujtaba-dev</strong> للرد السريع.</p>
+
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-secondary" onclick="nextStep(2)">تعديل</button>
+                            <button type="button" class="btn btn-whatsapp btn-lg" onclick="sendToWhatsApp()"><i class="fa-brands fa-whatsapp"></i> إرسال الطلب عبر الواتساب</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- E-Commerce Store Section (Manual edit in code) -->
+    <section id="store" class="store-section section-padding">
+        <div class="container">
+            <div class="section-header">
+                <h2>المتجر الإلكتروني للحلول والمعدات</h2>
+                <p>منتجات وبرمجيات مختارة لبناء بيئة العمل الخاصة بك (قابلة للتعديل والتحديث يدوياً)</p>
+                <div class="line"></div>
+            </div>
+
+            <!-- ملاحظة للمطور: يمكن إضافة أو حذف المنتجات يدويًا من هنا -->
+            <div class="products-grid">
+                
+                <!-- منتج 1 -->
+                <div class="product-card">
+                    <div class="product-tag">أنظمة شبكات</div>
+                    <div class="product-icon"><i class="fa-solid fa-network-wired"></i></div>
+                    <h3>مبدل شبكة مركزي Managed Switch 24-Port</h3>
+                    <p class="product-desc">مبدل شبكي ذكي وإداري لإدارة حركة البيانات في الشركات المتوسطة بأداء مرتفع.</p>
+                    <div class="product-footer">
+                        <span class="price">قابل للاستفسار</span>
+                        <a href="https://wa.me/249114757644?text=السلام%20علیکم،%20أريد%20الاستفسار%20عن%20منتج:%20Managed%20Switch%2024-Port" target="_blank" class="btn btn-outline"><i class="fa-brands fa-whatsapp"></i> طلب المنتج</a>
+                    </div>
+                </div>
+
+                <!-- منتج 2 -->
+                <div class="product-card">
+                    <div class="product-tag">تخزين سحابي</div>
+                    <div class="product-icon"><i class="fa-solid fa-hard-drive"></i></div>
+                    <h3>وحدة تخزين شبكي NAS Cloud Server</h3>
+                    <p class="product-desc">سيرفر تخزين سحابي محلي مخصص للنسخ الاحتياطي وحماية ملفات المؤسسة.</p>
+                    <div class="product-footer">
+                        <span class="price">قابل للاستفسار</span>
+                        <a href="https://wa.me/249114757644?text=السلام%20علیکم،%20أريد%20الاستفسار%20عن%20منتج:%20NAS%20Cloud%20Server" target="_blank" class="btn btn-outline"><i class="fa-brands fa-whatsapp"></i> طلب المنتج</a>
+                    </div>
+                </div>
+
+                <!-- منتج 3 -->
+                <div class="product-card">
+                    <div class="product-tag">حماية وأمان</div>
+                    <div class="product-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                    <h3>جدار حماية الشبكة Enterprise Firewall</h3>
+                    <p class="product-desc">نظام أمان متكامل للحماية من الهجمات وتأمين اتصال الفروع بالإنترنت.</p>
+                    <div class="product-footer">
+                        <span class="price">قابل للاستفسار</span>
+                        <a href="https://wa.me/249114757644?text=السلام%20علیکم،%20أريد%20الاستفسار%20عن%20منتج:%20Enterprise%20Firewall" target="_blank" class="btn btn-outline"><i class="fa-brands fa-whatsapp"></i> طلب المنتج</a>
+                    </div>
+                </div>
+
+                <!-- يمكنك تكرار المربع أعلاه لإضافة المزيد من المنتجات يدوياً -->
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact & Future Info Section -->
+    <section id="contact" class="contact-section section-padding">
+        <div class="container">
+            <div class="contact-card">
+                <div class="contact-text">
+                    <h2>هل لديك استفسار أو مشروع خاص؟</h2>
+                    <p>نحن هنا لمساعدتك في بناء وتطوير بنيتك التحتية التقنية بأفضل الطرق. تواصل معنا مباشرة عبر الواتساب.</p>
+                </div>
+                <div class="contact-action">
+                    <a href="https://wa.me/249114757644" target="_blank" class="btn btn-whatsapp btn-lg">
+                        <i class="fa-brands fa-whatsapp"></i> +249 11 475 7644
+                    </a>
+                </div>
+            </div>
+            
+            <!-- مكان مخصص لإضافة وسائل تواصل إضافية مستقبلاً (مثل البريد، العنوان، خريطة، إلخ) -->
+            <div class="additional-contact-info" id="futureContactDetails">
+                <!-- يمكن تفعيل أو إضافة الروابط التالية مستقبلاً -->
+                <p><i class="fa-solid fa-globe"></i> الموقع الرسمي لشركة Network+</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <p>جميع الحقوق محفوظة &copy; 2026 لـ <strong>Network+</strong> | تطوير <strong>mujtaba-dev</strong></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+index.html
+جارٍ عرض "index.html".
